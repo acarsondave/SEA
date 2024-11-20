@@ -1,1 +1,2 @@
 # SEA
+Practicing DevOps projects
